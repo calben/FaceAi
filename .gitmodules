@@ -1,0 +1,3 @@
+[submodule "Plugins/BastioniLABCharacters"]
+	path = Plugins/BastioniLABCharacters
+	url = https://github.com/calben/UnrealBastioniLABCharactersPlugin
