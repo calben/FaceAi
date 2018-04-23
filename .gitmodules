@@ -1,3 +1,6 @@
 [submodule "Plugins/BastioniLABCharacters"]
 	path = Plugins/BastioniLABCharacters
 	url = https://github.com/calben/UnrealBastioniLABCharactersPlugin
+[submodule "Plugins/OpenFaceAnimation"]
+	path = Plugins/OpenFaceAnimation
+	url = https://github.com/calben/UnrealOpenFaceAnimationPlugin
